@@ -7,7 +7,7 @@
 
     @include('includes.style')
 
-    <title>Larain Aja</title>
+    <title>@yield('title') | Larain Aja</title>
 </head>
 <body>
     
