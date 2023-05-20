@@ -16,7 +16,7 @@
     </a>
     <ul class="submenu ">
         <li class="submenu-item ">
-            <a href="component-alert.html">Alert</a>
+            <a href="{{ route('components.alert') }}">Alert</a>
         </li>
         <li class="submenu-item ">
             <a href="component-badge.html">Badge</a>
